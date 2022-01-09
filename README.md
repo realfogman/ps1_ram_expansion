@@ -10,7 +10,7 @@ The memory ICs (2x IC41C16100S-50KG) can be found on different platforms and are
 
 # Attention
 Please don't forget to close the solder jumpers according to the top view.
-Otherise, the IBM PS/1 won't or wrongly detects the inserted RAM size.
+Otherwise, the IBM PS/1 won't or wrongly detects the inserted RAM size.
 
 # Issues and improvements
 My first attempt was quick and dirty (missing drilling file and mirrored text on the pcb bottom side) ;(
