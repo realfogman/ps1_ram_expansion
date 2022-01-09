@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name IC41C16100S)(type Legacy)(uri ${KIPRJMOD}/IC41C16100S.lib)(options "")(descr ""))
+  (lib (name PS1_RAM_Port)(type Legacy)(uri ${KIPRJMOD}/PS1_RAM_Port.lib)(options "")(descr ""))
+)

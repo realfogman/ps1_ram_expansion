@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name RAM_PS1_2121)(type KiCad)(uri ${KIPRJMOD}/RAM_PS1_2121)(options "")(descr ""))
+  (lib (name ram_ps1_2121)(type KiCad)(uri ${KIPRJMOD}/ram_ps1_2121.pretty)(options "")(descr ""))
+)
