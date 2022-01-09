@@ -3,7 +3,6 @@ This is a 4MB memory expansion card for the IBM PS/1 2121 80386 PC.
 The schematic was done in Kicad.
 
 ![Top view](ps1_pictures/board_top_scaled.jpg?raw=true "Top view of the finished board")
-
 ![Bottom view](ps1_pictures/board_bottom_scaled.jpg?raw=true "Bottom view of the finished board")
 
 The memory expansion board was tested with CheckIt 3.0.
