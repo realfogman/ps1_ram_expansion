@@ -1,4 +1,4 @@
-# PS/1 4MB Memory Expansion
+# IBM PS/1 (model 2121) 4MB Memory Expansion
 This is a 4MB memory expansion card for the IBM PS/1 2121 80386 PC.
 The schematic was done in Kicad.
 
