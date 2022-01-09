@@ -8,9 +8,16 @@ The schematic was done in Kicad (https://www.kicad.org/).
 The memory expansion board was tested with CheckIt 3.0.
 The memory ICs (2x IC41C16100S-50KG) can be found on different platforms and are still cheaply available.
 
-# Attention
+# Disclaimer and attention
+Although the board works for me in my setup, don't make me responsible if it does not work for you, or (in the worst case scenario) if it breaks your PC.
+This is a hobbyist project with no guarantee of functionality!
+
 Please don't forget to close the solder jumpers according to the top view.
 Otherwise, the IBM PS/1 won't or wrongly detects the inserted RAM size.
+
+In order to fit the board into the memory extension slot, don't forget to cut the connector board between D13 and D14 (according to the image).
+Please, watch out to not cut any traces!
+
 
 # Issues and improvements
 My first attempt was quick and dirty (missing drilling file and mirrored text on the pcb bottom side) ;(
